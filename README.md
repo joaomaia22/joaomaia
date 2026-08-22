@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**joaomaia22/joaomaia22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# João Vitor Maia
 
-Here are some ideas to get you started:
+### Desenvolvedor • Criando experiências digitais com propósito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+`ESTÉTICA` &nbsp; `CLAREZA` &nbsp; `EVOLUÇÃO`
+
+</div>
+
+---
+
+## Sobre mim
+
+Gosto de transformar ideias em projetos bem construídos, funcionais e com atenção aos detalhes. Estou sempre aprendendo, criando e buscando novos desafios.
+
+---
+
+## Foco atual
+
+```text
+→ Construir projetos consistentes
+→ Evoluir como desenvolvedor
+→ Criar soluções que façam diferença
+```
+
+---
+
+## Vamos construir algo?
+
+Se tiver uma ideia, oportunidade ou projeto interessante, fique à vontade para entrar em contato.
+
+<div align="center">
+
+✦ &nbsp; Obrigado pela visita &nbsp; ✦
+
+</div>
