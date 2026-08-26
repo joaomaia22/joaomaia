@@ -11,10 +11,10 @@
 `Resolverdo de Poblema` &nbsp; `CLAREZA` &nbsp; `EVOLUÇÃO`
 
 <p align="center">
-<a href="#">
+<a href="www.linkedin.com/in/joão-vitor-da-silva-maia-32169a386">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="#">
+<a href="joao221033@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6C63FF" alt="Visualizações do perfil" />
