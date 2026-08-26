@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Desenvolvedor;%3E+Contador+de+hist%C3%B3rias+em+c%C3%B3digo;%3E+Obcecado+por+est%C3%A9tica;%3E+Eterno+aprendiz" alt="Áreas de atuação de João Vitor" />
 </p>
 
-`ESTÉTICA` &nbsp; `CLAREZA` &nbsp; `EVOLUÇÃO`
+`Resolverdo de Poblema` &nbsp; `CLAREZA` &nbsp; `EVOLUÇÃO`
 
 <p align="center">
 <a href="#">
@@ -46,14 +46,6 @@ Gosto de transformar ideias em projetos bem construídos, funcionais e com aten�
   <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" alt="JavaScript, HTML, CSS, Git, GitHub e VS Code" />
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
 
 ---
 
