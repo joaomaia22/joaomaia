@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USUARIO/USUARIO/main/starry-night-banner.jpg" width="100%" alt="Céu estrelado ao estilo Van Gogh" />
+<img src="r44d0f4o4xj91.webp" />
 
 # Olá, eu sou o João Vitor Maia 🎨
 
