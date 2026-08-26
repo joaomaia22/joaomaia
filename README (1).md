@@ -26,8 +26,6 @@
 
 ## 🖌️ Sobre mim
 
-> *"Assim como Van Gogh via redemoinhos onde outros viam apenas céu, eu vejo interfaces onde outros veem apenas requisitos."*
-
 Gosto de transformar ideias em projetos bem construídos, funcionais e com atenção aos detalhes. Não me contento com "funciona" — quero que funcione *bem* e que pareça certo. Estou sempre aprendendo, criando e buscando novos desafios.
 
 - 🎨 Acredito que boa engenharia e bom design não são coisas separadas.
@@ -45,16 +43,8 @@ Gosto de transformar ideias em projetos bem construídos, funcionais e com aten�
 ## 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode" alt="JavaScript, HTML, CSS, React, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" alt="JavaScript, HTML, CSS, Git, GitHub e VS Code" />
 </p>
-
-## 🚀 Projetos em destaque
-
-| Projeto | O que é |
-| --- | --- |
-| [Projeto A](#) | Breve descrição do que foi construído e qual problema resolve. |
-| [Projeto B](#) | Breve descrição do que foi construído e qual problema resolve. |
-| [Projeto C](#) | Breve descrição do que foi construído e qual problema resolve. |
 
 ## 📊 GitHub Analytics
 
