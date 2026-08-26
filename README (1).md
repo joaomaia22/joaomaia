@@ -2,7 +2,7 @@
 
 <img src="r44d0f4o4xj91.webp" />
 
-# Olá, eu sou o João Vitor Maia 🎨
+# Olá, eu sou o João Vitor Maia 😁
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Desenvolvedor;%3E+Contador+de+hist%C3%B3rias+em+c%C3%B3digo;%3E+Obcecado+por+est%C3%A9tica;%3E+Eterno+aprendiz" alt="Áreas de atuação de João Vitor" />
