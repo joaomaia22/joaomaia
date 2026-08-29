@@ -17,9 +17,17 @@
 <a href="mailto:joao221033@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6C63FF" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=joaomaia22&style=for-the-badge&color=6C63FF" alt="Visualizações do perfil" />
 </p>
 
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joaomaia22/joaomaia/output/github-contribution-grid-snake.svg" alt="Cobrinha das contribuições do GitHub" />
 </div>
 
 ---
@@ -45,7 +53,6 @@ Gosto de transformar ideias em projetos bem construídos, funcionais e com aten�
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
 </p>
-
 
 ---
 
