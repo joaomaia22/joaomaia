@@ -5,7 +5,7 @@
 # Olá, eu sou o João Vitor Maia 😁
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Desenvolvedor;%3E+Contador+de+hist%C3%B3rias+em+c%C3%B3digo;%3E+Obcecado+por+est%C3%A9tica;%3E+Eterno+aprendiz" alt="Áreas de atuação de João Vitor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Cientista+de+Dados+%7C+Analista+de+Dados;%3E+Transformando+dados+em+decis%C3%B5es;%3E+Machine+Learning+%26+Modelagem+Preditiva;%3E+Storytelling+com+Dados" alt="Áreas de atuação de João Vitor" />
 </p>
 
 `RESOLVEDOR DE PROBLEMAS` &nbsp; `CLAREZA` &nbsp; `EVOLUÇÃO`
