@@ -1,42 +1,49 @@
 <div align="center">
 
-<!-- 🐍 Cobrinha no topo, como capa do perfil -->
-<img src="https://raw.githubusercontent.com/joaomaia22/joaomaia/output/github-contribution-grid-snake.svg" alt="Cobrinha das contribuições" width="95%" />
+<img src="r44d0f4o4xj91.webp" />
 
-# Olá, eu sou o João Vitor Maia 👋
+# Olá, eu sou o João Vitor Maia 😁
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Cientista+de+Dados+%7C+Analista+de+Dados;%3E+Transformando+dados+em+decis%C3%B5es;%3E+Machine+Learning+%26+Modelagem+Preditiva;%3E+Storytelling+com+Dados" alt="Áreas de atuação" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Cientista+de+Dados+%7C+Analista+de+Dados;%3E+Transformando+dados+em+decis%C3%B5es;%3E+Machine+Learning+%26+Modelagem+Preditiva;%3E+Storytelling+com+Dados" alt="Áreas de atuação de João Vitor" />
+</p>
 
 `RESOLVEDOR DE PROBLEMAS` &nbsp; `CLAREZA` &nbsp; `EVOLUÇÃO`
 
-<a href="https://www.linkedin.com/in/joão-vitor-da-silva-maia-32169a386"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:joao221033@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/joão-vitor-da-silva-maia-32169a386">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:joao221033@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=joaomaia22&style=for-the-badge&color=6C63FF" alt="Visualizações do perfil" />
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🖌️ Sobre mim
 
-```python
-class JoaoMaia:
-    nome = "João Vitor Maia"
-    foco = ["Dados", "Machine Learning", "Automação"]
-    objetivo = "Transformar dados em decisões úteis"
+Gosto de transformar ideias em projetos bem construídos, funcionais e com atenção aos detalhes. Não me contento com "funciona" — quero que funcione *bem* e que pareça certo. Estou sempre aprendendo, criando e buscando novos desafios.
 
-    def say_hello(self):
-        return "Vamos construir algo interessante."
+- 🎨 Acredito que boa engenharia e bom design não são coisas separadas.
+- 🔍 Obcecado por clareza — no código, na interface e na comunicação.
+- 🌱 Cada projeto é uma pincelada a mais na mesma tela em construção.
+
+## 🧭 Foco atual
+
+```text
+→ Construir projetos consistentes
+→ Evoluir como desenvolvedor
+→ Criar soluções que façam diferença
 ```
-
-- 🔎 Explorando dados para encontrar histórias e oportunidades.
-- ⚙️ Criando projetos práticos com código, análise e automação.
-- 🌱 Sempre aprendendo e refinando o que construo.
 
 ## 🧰 Tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
 </p>
 
 ## 🚀 Projetos em destaque
@@ -68,4 +75,12 @@ class JoaoMaia:
 
 ✦ &nbsp; Obrigado pela visita! 🚀 &nbsp; ✦
 
+</div>
+
+---
+
+## 🐍 Jogo da Cobra — minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joaomaia22/joaomaia/output/github-contribution-grid-snake.svg" alt="Jogo da cobra com minhas contribuições do GitHub" width="95%" />
 </div>
