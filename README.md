@@ -71,9 +71,6 @@ Gosto de transformar ideias em projetos bem construídos, funcionais e com aten�
 
 <div align="center">
 
-> **“A curiosidade é o começo de toda boa construção.”**
-
-✦ &nbsp; Obrigado pela visita! 🚀 &nbsp; ✦
 
 </div>
 
